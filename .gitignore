@@ -1,0 +1,56 @@
+# Compiled files
+*.exe
+*.o
+*.out
+
+# Build folders
+build/
+bin/
+Debug/
+Release/
+
+# IDE files
+.vscode/
+.idea/
+
+# Python environments
+.venv/
+venv/
+__pycache__/
+
+# Temporary files
+*.log
+*.tmp
+
+# Secrets
+.env
+.env.*
+
+# Personal/local database data
+data/
+
+# Compiler output and logs
+compile_errors.txt
+compile_log.txt
+
+# Code information
+z_info
+
+# Local application data - may contain personal information
+storage/budgets.txt
+storage/expenses.csv
+storage/expenses.txt
+storage/groups.txt
+storage/group_expenses.txt
+storage/settlements.txt
+storage/users.txt
+
+# Compiled binaries and libraries
+*.exe
+*.dll
+*.a
+*.so
+*.o
+
+# Personal information
+z_info/

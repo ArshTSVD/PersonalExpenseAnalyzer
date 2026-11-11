@@ -1,0 +1,3 @@
+id,userId,title,category,amountPaise,date,note
+"EXP001","USR001","Dinner","Food",45000,"2026-11-09","Dinner with friends"
+"EXP002","USR001","Lunch, with friends","Food",25000,"2026-11-09","Paid for ""everyone"""
